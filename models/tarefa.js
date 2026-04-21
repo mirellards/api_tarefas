@@ -13,4 +13,4 @@ const schemaTarefa = new mongoose.Schema({
  versionKey: false
  }
 )
-module.exports = mongoose.model('Tarefa', schemaTarefa)
+module.exports = mongoose.model('Tarefa', schemaTarefa, 'tarefas')
