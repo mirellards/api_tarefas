@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index 'mongodb+srv://mirella256424:256424@cluster0.f20vrbf.mongodb.net/TarefasDB=Cluster0'"
+    "start": "node index 'mongodb+srv://mirella256424:256424@cluster0.f20vrbf.mongodb.net/tarefasDB'"
   },
   "dependencies": {
     "express": "^5.2.1",
